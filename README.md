@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/user_login.png)
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/barber_login.png)
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/queue_details1.png)
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/queue_details2.png)
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/user_detail.png)
+![Image Alt](https://github.com/mayurranshinge08/barber_shop/blob/459ed889f5aa0902dfef1bb77002231a03c3ac33/home_screen.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
